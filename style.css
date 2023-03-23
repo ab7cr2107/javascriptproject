@@ -1,0 +1,32 @@
+body{
+    background-image: url(/Assets/360_F_261679386_EeyDiYxfNOnQypfuXYsWFDKR7UCGZlIe.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+placeholder{
+    text-decoration-color: aliceblue;
+}
+#dive{
+height: 500px;
+width: 500px;
+justify-content: center;
+}
+p{
+    padding-left: 72%;
+}
+#password{
+    opacity: 0.5;
+    background-color: cadetblue;
+}
+#email{
+    opacity: 0.5;
+    background-color: cadetblue;
+
+}
+#button{
+    color: cadetblue;
+}
+#text{
+    opacity: 0.5;
+    background-color: cadetblue;
+}
